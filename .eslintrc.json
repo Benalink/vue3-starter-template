@@ -24,5 +24,6 @@
     "defineEmits": "readonly",
     "defineExpose": "readonly",
     "withDefaults": "readonly"
-  }
+  },
+  "ignorePatterns": ["auto-imports.d.ts", "components.d.ts"]
 }
